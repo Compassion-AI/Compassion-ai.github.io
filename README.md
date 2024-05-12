@@ -1,2 +1,2 @@
 # Compassion-ai.github.io
-Site
+Please keep this as public
