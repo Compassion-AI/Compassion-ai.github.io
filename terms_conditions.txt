@@ -1,0 +1,177 @@
+## Terms of Use for the LISTEN App 
+
+Effective Date: [Insert Date] 
+
+ 
+These Terms of Use ("Terms") apply to the LISTEN app ("App"), developed by Compassion AI, LLC, and govern the use of the App by licensed therapists ("Therapist," "User", “You”).  
+By downloading, accessing, or using the LISTEN app, you agree to comply with these Terms, which form a legal agreement between you and Compassion AI, LLC ("we," "us," "our"). If you do not agree to these Terms, you may not use the App. 
+ 
+
+1. Purpose of the App 
+
+ 
+The LISTEN app is designed exclusively for licensed therapists to assist in recording, transcribing, and analyzing therapy sessions to provide insights that enhance therapeutic care. By using the App, you acknowledge that the App is a tool to support clinical practice and is not a substitute for your professional judgment as a therapist. 
+ 
+
+2. Eligibility 
+
+ 
+By using the LISTEN app, you confirm that you are legally authorized to provide therapeutic services according to the laws of the jurisdiction where you practice. You must ensure that your use of the App complies with all local, state, national, and international regulations regarding the provision of therapeutic services. Compassion AI LLC is not responsible for ensuring that your use of the app complies with applicable laws in your jurisdiction. 
+ 
+
+3. Account Registration 
+
+ 
+As a licensed therapist, you are required to create an account to use the LISTEN app.  
+When registering, you must provide accurate and up-to-date information. You are responsible for safeguarding your login credentials and ensuring that no unauthorized individuals access your account. 
+ 
+
+4. Client Consent and Recording 
+
+ 
+You are solely responsible for obtaining explicit, informed consent from your clients before recording therapy sessions. This consent must include: 
+
+ 
+
+The purpose of the recordings. 
+
+How the data will be used, stored, and retained in compliance with privacy regulations (e.g., HIPAA and GDPR privacy laws). 
+
+The client's right to withdraw consent at any time. 
+
+ 
+
+We have drafted a sample consent policy for your reference. You must ensure that clients understand their data will be anonymized for analysis and securely stored in accordance with the Privacy Policy. 
+ 
+
+5. Data Ownership and Management 
+
+ 
+
+You retain ownership of the data you input or record through the LISTEN app.  
+
+However, anonymized data may be used by Compassion AI to improve the App's functionality and performance with both your and your client’s consent. 
+
+The data will never be identifiable and will be processed according to the Privacy Policy. 
+
+ 
+
+6. Intellectual Property 
+
+ 
+
+All content, features, and functionality of the LISTEN app, including but not limited to software, algorithms, text, graphics, logos, and code, are the exclusive property of Compassion AI LLC. You are granted a limited license to use the app, but you may not copy, modify, reproduce, or distribute any part of the app without our prior written consent. 
+
+ 
+
+7. License and Restrictions 
+
+ 
+We grant you a limited, non-exclusive, non-transferable license to use the LISTEN app in accordance with these Terms. You agree not to: 
+
+ 
+
+Use the App for any purpose other than lawful therapeutic practices. 
+
+Copy, modify, distribute, or create derivative works from the App. 
+
+Share, rent, lease, or sublicense the App to unauthorized individuals. 
+
+Reverse engineer, decompile, or disassemble any part of the App. 
+
+ 
+
+8. Data Security and Compliance 
+
+ 
+The LISTEN app is compliant with HIPAA and GDPR privacy laws to ensure the security of sensitive data.  All audio recordings, transcripts, and reports are securely stored and encrypted. You are responsible for complying with any additional data privacy laws relevant to your jurisdiction. 
+ 
+
+9. Privacy and Data Protection 
+
+ 
+The use of the LISTEN app is subject to the [Privacy Policy]. You agree to ensure that all personal data collected through the App is processed in accordance with applicable privacy laws, and that client information is handled with the highest level of confidentiality. 
+ 
+
+10. Updates and Modifications 
+
+ 
+
+We may update or modify the App and these Terms at any time. If significant changes are made, we will notify you within the App or by email.  
+
+Continued use of the App following the posting of updates signifies your acceptance of the changes. 
+
+ 
+
+11. Termination of Use 
+
+ 
+
+We reserve the right to suspend or terminate your access to the LISTEN app if you violate these Terms or engage in any prohibited activities.  
+
+Upon termination, you must cease all use of the App, and any licenses granted to you will be revoked. 
+ 
+
+12. Warranties and Disclaimers 
+
+ 
+The LISTEN app is provided "as is" without any warranties of any kind, either express or implied. We do not warrant that: 
+
+The App will meet your requirements or be error-free. 
+
+Any defects will be corrected. 
+
+The App will be available without interruption. 
+ 
+
+13. Limitation of Liability 
+
+ 
+To the fullest extent permitted by law, [Developer Name] is not liable for any indirect, incidental, special, or consequential damages arising from your use of the LISTEN app, including but not limited to: 
+
+ 
+
+Loss of data. 
+
+Errors in therapy analysis. 
+
+Infringement of third-party rights. 
+ 
+
+14. Indemnification 
+
+ 
+You agree to indemnify and hold Compassion Ai, LLC, its affiliates, officers, and employees harmless from any claims, damages, or costs arising from: 
+
+ 
+
+Your use of the App. 
+
+Your violation of these Terms. 
+
+Any claims by third parties relating to your provision of therapeutic services. 
+ 
+
+15. Governing Law and Dispute Resolution 
+
+ 
+
+These Terms are governed by and construed in accordance with the laws of the State of Illinois, without regard to its conflict of laws provisions.  
+
+Any disputes arising from these Terms or your use of the LISTEN app will be subject to the exclusive jurisdiction of the courts located in Illinois. 
+
+ 
+
+16. Force Majeure 
+
+ 
+
+Compassion AI LLC is not liable for any failure to perform or delays in performance due to events outside of our reasonable control, including but not limited to natural disasters, war, pandemics, government actions, or interruptions in internet service. During such events, certain features of the LISTEN app may be unavailable. 
+ 
+
+17. Contact Information 
+
+ 
+For questions or concerns regarding these Terms or the LISTEN app, please contact us at: 
+[Insert Contact Information]. 
+ 
